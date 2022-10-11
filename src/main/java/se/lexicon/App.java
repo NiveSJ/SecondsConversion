@@ -3,7 +3,7 @@ package se.lexicon;
 import java.util.Scanner;
 
 /**
- * Hello world!
+ * Gets user Input into Seconds and converts into hours,minutes and seconds!
  */
 public class App {
     public static void main(String[] args) {
